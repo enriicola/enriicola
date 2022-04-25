@@ -1,5 +1,6 @@
-## Hello World 😁
-## I'm Enrico, a Computer Science undergraduate student at Università degli Studi di Genova
+# Hello World, I'm Enrico 😁
+##I am currently studying Computer Science at the University of Genoa (IT)
+###pippo
 
 
 - 🌱 I’m currently learning everything 🤣
