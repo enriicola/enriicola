@@ -25,9 +25,7 @@
 
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> 
 <a href="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" height="40"/> </a>
-<a href="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub" width="40" height="40"/> </a>
-  
-<a href="./img/terminal-light.svg" target="_blank" rel="noreferrer"> <img src="./img/terminal-light.svg" alt="Terminal" width="40" height="40"/> </a>
+
 <a href="./img/terminal-dark.svg" target="_blank" rel="noreferrer"> <img src="./img/terminal-dark.svg" alt="Terminal" width="40" height="40"/> </a>
   
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
