@@ -4,8 +4,9 @@
 
 ### Hobbies:
 
--  Fitness/Powerbuilding 🏋🏻‍♀️
--  Nutrition/Wellbeing 🍏
+-  Fitness 🏋🏻‍♀️
+-  Nutrition 🍏
+-  Beachvolley 🏐
 -  Waterpolo 🤽🏻‍♂️
 -  Mtb/Cyclism 🚵🏻‍♂️
 -  ITs related stuff 🧑🏻‍💻
