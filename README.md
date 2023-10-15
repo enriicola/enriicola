@@ -4,7 +4,7 @@
 
 ### Hobbies:
 
--  Fitness 🏋🏻‍♀️
+-  Fitness & Weightlifting 🏋🏻‍♀️
 -  Nutrition 🍏
 -  Beachvolley 🏐
 -  Waterpolo 🤽🏻‍♂️
