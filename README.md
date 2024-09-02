@@ -4,12 +4,12 @@
 
 ### Hobbies:
 
--  Fitness & Weightlifting 🏋🏻‍♀️
--  Nutrition 🍏
--  Beachvolley 🏐
--  Waterpolo 🤽🏻‍♂️
--  Mtb/Cyclism 🚵🏻‍♂️
--  ITs related stuff 🧑🏻‍💻
+- 🏋🏻‍♀️
+- 🍏
+- 🏐
+- 🤽🏻‍♂️
+- 🚵🏻‍♂️
+- 🧑🏻‍💻
 
 ### Languages and Tools I use:
 
