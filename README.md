@@ -3,6 +3,10 @@
 There are two kinds of people in the world:
 - those who can extrapolate data from missing information
 
+<!--
+https://photos.app.goo.gl/mRppitKhMtoNP2Na6
+-->
+
 # Hello World, I'm Enrico 😁
 I am currently studying Computer Science at the University of Genoa (IT) 📚
 
