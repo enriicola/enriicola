@@ -1,5 +1,8 @@
 -  🔭 this file is still Work in Progress :)
 
+There are two kinds of people in the world:
+- those who can extrapolate data from missing information
+
 # Hello World, I'm Enrico 😁
 I am currently studying Computer Science at the University of Genoa (IT) 📚
 
