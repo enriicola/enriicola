@@ -1,6 +1,5 @@
 ... 🔭 this file is still Work in Progress :)
-
-![](./alitalia.jpg)
+<img src="./alitalia.jpg" alt="alitalia" width="300">
 
 
 
