@@ -5,13 +5,13 @@
 ... 🔭 this file is still Work in Progress :)
 
 
-
+<br>
 
 
 There are two kinds of people in the world:
 - those who can extrapolate data from missing information
 
-
+<br>
 ### Hobbies:
 🏋🏻‍♀️🍏🏐🤽🏻‍♂️🚵🏻‍♂️🧑🏻‍💻
 
