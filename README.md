@@ -1,9 +1,8 @@
 <img src="./alitalia.jpg" alt="alitalia" width="300">
 
-![Ricola](ricola.jpg)
+<img src="./ricola.jpg" alt="ricola" width="300">
 
-# Hello World, I'm Enrico 😁
-... 🔭 this file is still Work in Progress :)
+# ... 🔭 this file is still Work in Progress :)
 
 - **Nick:** enriicola
 - **International Phonetic Alphabet (IPA):** `/enˈriːkola/`
