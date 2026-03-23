@@ -1,9 +1,13 @@
 <img src="./alitalia.jpg" alt="alitalia" width="300">
 
+![Ricola](ricola.jpg)
 
 # Hello World, I'm Enrico 😁
 ... 🔭 this file is still Work in Progress :)
 
+- **Nick:** enriicola
+- **International Phonetic Alphabet (IPA):** `/enˈriːkola/`
+- **Pronunciation:** *en-rìi-co-la*
 
 <br>
 
