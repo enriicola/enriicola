@@ -6,7 +6,7 @@
 
 - **Nick:** enriicola
 - **International Phonetic Alphabet (IPA):** `/enˈriːkola/`
-- **Pronunciation:** *en-rìi-co-la*
+- **Pronunciation:** *en-REE-co-lah*
 
 <br>
 
