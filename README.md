@@ -4,6 +4,8 @@
 
 # ... 🔭 this file is still Work in Progress :)
 
+TODO: move my stuff from github to codeberg ... because microsoft.
+
 - **Nick:** enriicola
 - **International Phonetic Alphabet (IPA):** `/enˈriːkola/`
 - **Pronunciation:** *en-REE-co-lah*
